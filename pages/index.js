@@ -11,12 +11,12 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Welcome to <a href="https:mohammedalrozzi.github.io/">my page!</a>
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
+          you can also visit my page{' '}
+          <code className={styles.code}>GazaStats.html</code>
         </p>
 
         <div className={styles.grid}>
@@ -57,6 +57,9 @@ export default function Home() {
             </p>
           </a>
         </div>
+        <h1 className={styles.title}>
+          Welcome to <a href="https:mohammedalrozzi.github.io/">my page!</a>
+        </h1>
       </main>
 
       <footer className={styles.footer}>
